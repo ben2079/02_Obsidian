@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "078ac7bb2f5872c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01b38b46620a439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ccb27b4b654930a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kraftwerk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kraftwerk"
+            }
+          },
+          {
+            "id": "cd83b496697bd757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kraftwerk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kraftwerk"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c43247c489f70e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "553c300cf2929245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89dfafdff56f3a86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9844a76fec59d5f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9f445b39ed0d9e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78c14062ffe73113",
+    "type": "split",
+    "children": [
+      {
+        "id": "beed103300f531c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0020fcb83ff959d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kraftwerk.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kraftwerk"
+            }
+          },
+          {
+            "id": "ba6d13970932f236",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kraftwerk.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kraftwerk"
+            }
+          },
+          {
+            "id": "a188580f18ac7857",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "678fb1f608c3d44f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kraftwerk.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kraftwerk"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0020fcb83ff959d8",
+  "lastOpenFiles": [
+    "Informationstheorie.md",
+    "Bernd & Hilla Becher.md",
+    "Kraftwerk.md",
+    "trafo.jpg",
+    "Mensch-Maschine.md",
+    "menschmaschine_album.png",
+    "[Bernd.md",
+    "Andreas Gursky.md",
+    "Düsseldorf.md",
+    "Norbert Wiener.md",
+    "[Informationstheorie.md",
+    "[Kybernetik.md",
+    "().md",
+    "Welcome.md"
+  ]
+}
