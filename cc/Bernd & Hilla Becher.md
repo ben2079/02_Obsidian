@@ -1,2 +1,2 @@
-[Bernd und Hilla Becher]([Bernd und Hilla Becher | Die Photographische Sammlung - Die Photographische Sammlung](https://photographie-sk-kultur.de/sammlung/kuenstler/berndundhilla-becher) sind die Begründer der Düsseldorfer Fotoschule
+[Bernd und Hilla Becher](https://www.artnet.de/k%C3%BCnstler/bernd-and-hilla-becher/) sind die Begründer der Düsseldorfer Fotoschule
 

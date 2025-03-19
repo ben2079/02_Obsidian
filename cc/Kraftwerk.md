@@ -1,8 +1,7 @@
-Kraftwerk ist eine Tanzkapelle aus [[Düsseldorf]]  und veröffentlichte im Jahr 1978 das 
-Album [[Mensch-Maschine]]
+Kraftwerk ist eine Tanzkapelle aus [[Düsseldorf]]  und 
+veröffentlichte im Jahr 1978 das  Album [[Mensch-Maschine]]
 
-
-Weniger bekannt ist das Album Kraftwerk aus dem Jahr 1970
+Weniger bekannt ist das Album [Kraftwerk](https://www.discogs.com/master/2745-Kraftwerk-Kraftwerk) aus dem Jahr 1970
 es enthält die Titel:
 
 - Ruckzuck
@@ -10,5 +9,8 @@ es enthält die Titel:
 - Megaherz
 - Vom Himmel Hoch
 
-Das Innencover zeigt das Bild eines Transformators, aufgenommen von [[Bernd & Hilla Becher]]
+Das Innencover zeigt das Bild eines Transformators, 
+aufgenommen von [[Bernd & Hilla Becher]]
+
 ![[trafo.jpg]]
+

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kraftwerk.md",
+                "file": "Andreas Gursky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kraftwerk"
+              "title": "Andreas Gursky"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kraftwerk.md",
+                "file": "Andreas Gursky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kraftwerk"
+              "title": "Backlinks for Andreas Gursky"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kraftwerk.md",
+                "file": "Andreas Gursky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kraftwerk"
+              "title": "Outgoing links from Andreas Gursky"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kraftwerk.md",
+                "file": "Andreas Gursky.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kraftwerk"
+              "title": "Outline of Andreas Gursky"
             }
           }
         ]
@@ -182,18 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0020fcb83ff959d8",
+  "active": "cd83b496697bd757",
   "lastOpenFiles": [
-    "Informationstheorie.md",
-    "Bernd & Hilla Becher.md",
     "Kraftwerk.md",
-    "trafo.jpg",
+    "Norbert Wiener.md",
     "Mensch-Maschine.md",
+    "Andreas Gursky.md",
+    "Informationstheorie.md",
+    "Düsseldorf.md",
+    "Bernd & Hilla Becher.md",
+    "trafo.jpg",
     "menschmaschine_album.png",
     "[Bernd.md",
-    "Andreas Gursky.md",
-    "Düsseldorf.md",
-    "Norbert Wiener.md",
     "[Informationstheorie.md",
     "[Kybernetik.md",
     "().md",
